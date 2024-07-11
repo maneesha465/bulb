@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bulb/static/css/main.df438667.css",
+    "main.js": "/bulb/static/js/main.dbf4ef5a.js",
+    "index.html": "/bulb/index.html",
+    "main.df438667.css.map": "/bulb/static/css/main.df438667.css.map",
+    "main.dbf4ef5a.js.map": "/bulb/static/js/main.dbf4ef5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df438667.css",
+    "static/js/main.dbf4ef5a.js"
+  ]
+}
